@@ -8,13 +8,13 @@ This project was developed as part of my **CODSOFT internship/project work** to 
 
 ## 🚀 Live Project
 
-> Coming Soon — Deployment in progress
+Coming Soon — Deployment in progress
 
 ---
 
 ## 📌 Project Overview
 
-**Online Quiz Maker** is a full-stack quiz platform where users can:
+Online Quiz Maker is a full-stack quiz platform where users can:
 
 - Register and login securely
 - Create their own quizzes
@@ -27,7 +27,7 @@ This project was developed as part of my **CODSOFT internship/project work** to 
 - Get instant scores
 - View correct and incorrect answers
 
-The application uses **JWT authentication** to protect user-specific operations such as creating and submitting quizzes.
+The application uses **JWT Authentication** to protect user-specific operations such as creating and submitting quizzes.
 
 ---
 
@@ -58,7 +58,7 @@ The application uses **JWT authentication** to protect user-specific operations 
 - Show quiz title
 - Show quiz description
 - Show quiz creator
-- Take any available quiz
+- Take available quizzes
 
 ### 🧠 Quiz Taking
 
@@ -83,12 +83,12 @@ After submitting a quiz, users receive:
 
 ### 📱 Responsive Design
 
-The application is designed to work on:
+The application works well on:
 
-- 💻 Desktop
-- 💻 Laptop
-- 📱 Mobile
-- 📱 Tablet
+- Desktop
+- Laptop
+- Mobile
+- Tablet
 
 ---
 
@@ -123,18 +123,18 @@ The application is designed to work on:
 - VS Code
 - Git
 - GitHub
-- Postman / Thunder Client
+- Postman
+- Thunder Client
 - Nodemon
 
 ---
 
 ## 🏗️ Project Structure
 
-
+```text
 online-quiz-maker/
 │
 ├── client/
-│   │
 │   ├── public/
 │   │
 │   ├── src/
@@ -162,7 +162,6 @@ online-quiz-maker/
 │   └── vite.config.js
 │
 ├── server/
-│   │
 │   ├── config/
 │   │   └── db.js
 │   │
@@ -187,30 +186,3 @@ online-quiz-maker/
 │
 ├── .gitignore
 └── README.md
-
-👨‍💻 Developer
-Nitin Yadav
-
-B.Tech CSE
-
-Interested in:
-
-Full Stack Development
-MERN Stack
-JavaScript
-React.js
-Node.js
-MongoDB
-
-
-🎓 Internship
-
-This project was developed as part of my practical learning and project experience with:
-
-CODSOFT
-
-The project provided hands-on experience in building and integrating a complete full-stack web application.
-
-📄 License
-
-This project is created for educational and learning purposes.
