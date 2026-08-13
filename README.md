@@ -186,3 +186,43 @@ online-quiz-maker/
 │
 ├── .gitignore
 └── README.md
+
+## 👨‍💻 Developer
+
+### Nitin Yadav
+
+**B.Tech CSE**
+
+### 💻 Skills & Interests
+
+- Full Stack Development
+- MERN Stack
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+
+## 🎓 Internship
+
+This project was developed as part of my practical learning and internship experience with:
+
+### CODSOFT
+
+During this internship, I gained hands-on experience in:
+
+- Full Stack Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API Development
+- JWT Authentication
+- Git & GitHub
+
+This project helped me strengthen my practical skills by building and integrating a complete full-stack web application.
+
+## 📄 License
+
+This project is created for educational and learning purposes.
+
+The source code is intended to demonstrate practical skills in full-stack web development and should not be used for commercial purposes without permission.
